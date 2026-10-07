@@ -7,7 +7,7 @@
 ### 🚀 Dlaczego warto używać?
 
 * **Gwarantowane ładowanie modyfikacji:** Zapomnij o problemie, w którym Spotify uruchamia się w czystej, domyślnej wersji. Launcher dba o to, aby Spicetify załadowało się poprawnie przy każdym uruchomieniu.
-* **Automatyczne aktualizacje:** Narzędzie automatycznie sprawdza i aktualizuje Spicetify w tle, dzięki czemu zawsze masz dostęp do najnowszych funkcji i poprawek.
+* **Automatyczne aktualizacje:** Narzędzie automatycznie sprawdza i aktualizuje Spicetify w podczas uruchamiania, dzięki czemu zawsze masz dostęp do najnowszych funkcji i poprawek.
 * **Wygoda i prostota:** Po prostu odpalasz program i gotowe – bez konieczności ręcznego wpisywania komend w terminalu czy naprawiania plików po aktualizacjach Spotify.
 
 ---
